@@ -1,0 +1,1 @@
+https://github.com/IanFerreira00/React-native/blob/main/app/(tabs)/splashScreen/index.jsx
